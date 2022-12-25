@@ -1,0 +1,26 @@
+nav {
+    flex-direction: column;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    height: 80px;
+    overflow: hidden;
+}
+article #home .text,
+article #home .price {
+    background: none;
+    display: flex;
+    justify-content: center;
+    column-gap: 15px;
+    position: relative;
+    top: 30%;
+    left: 200px;
+    opacity: 0.5;
+}
+article #roads .form-box  {
+    display: none; }
+    footer .right {
+        position: relative;
+        left: 2rem;
+        top: 50px;
+        line-height: 20px;
+    }

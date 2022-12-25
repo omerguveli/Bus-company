@@ -1,0 +1,27 @@
+#color {
+    color: #ffff;
+}
+.heading-medium {
+    font-size: 1 rem;
+}
+.heading-small {
+    font-size: 0.75rem;
+}
+.input-class {
+    width: 10%;
+    padding: 0.25rem;
+    resize: none;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 7px;
+}
+.input-class:hover {
+color: red;
+background: wheat;
+}
+.number {
+    color: red;
+}
+.opacity {
+    opacity: 0.6;
+}
